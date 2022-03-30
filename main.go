@@ -63,7 +63,7 @@ func main() {
 		if buffer[0] == 'b' {
 			if buffer[1] == 'u' {
 				if buffer[2] == 'g' {
-					panic("This is a bug 6")
+					panic("This is a bug 1")
 				}
 			}
 		}
@@ -71,7 +71,7 @@ func main() {
 		if buffer[0] == 'b' {
 			if buffer[1] == 'g' {
 				if buffer[2] == 'u' {
-					panic("This is a bug 6")
+					panic("This is a bug 2")
 				}
 			}
 		}
