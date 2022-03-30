@@ -1,1 +1,1 @@
-# golang-target
+This is a golang target
