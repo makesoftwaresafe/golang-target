@@ -1,0 +1,4 @@
+project: PROJECT
+target: simple-go-target
+cmds:
+- cmd: /usr/local/bin/main @@
